@@ -10,14 +10,3 @@ It's O move
  -  -  -     2 1   2 2   2 3
  -  -  -     3 1   3 2   3 3
 ````
-
-To install
-````
-cargo run
-
-# linux
-xdg-open tri.png
-
-# macos
-open tri.png
-````
